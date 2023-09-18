@@ -304,6 +304,12 @@ img {
   transform: scaleY(1);
 }
 
+.owl-carousel-marc{
+  width:80vw;
+  margin-left: 0;
+  height: 600px;
+}
+
 .theme-btn:hover::after{
   -webkit-transition-delay: 0.2s;
   transition-delay: 0.2s;
