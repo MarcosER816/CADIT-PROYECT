@@ -2811,7 +2811,7 @@ h3 a{
 .main-footer .footer-top .widget-section .logo-widget .footer-logo{
   position: relative;
   margin-bottom: 33px;
-  background: #040041;
+  background: transparent;
 }
 
 .main-footer .footer-top .widget-section .logo-widget .text{
