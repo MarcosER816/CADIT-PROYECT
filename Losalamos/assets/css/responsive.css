@@ -306,11 +306,11 @@
   }
 
   .main-header.style-three .menu-area .mobile-nav-toggler .icon-bar{
-    background: #2e3192;
+    background: #254883;
   }
 
   .main-header.style-three .search-box-outer .search-toggler {
-    color: #2e3192 !important;
+    color: #254883 !important;
   }
 
   .about-style-three .col-sm-12:last-child .image-box{
@@ -427,7 +427,7 @@
   }
 
   .main-header.style-four .search-box-outer .search-toggler:hover{
-    color: #2e3192 !important;
+    color: #254883 !important;
   }
 
 }

@@ -55,7 +55,7 @@
 }
 
 .switcher #styleOptions li a.blue-color {
-  background: #01aef0;
+  background: rgb(173, 83, 112 );
 }
 
 .switcher #styleOptions li a.pink-color {

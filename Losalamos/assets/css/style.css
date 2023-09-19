@@ -171,7 +171,7 @@ h1,h2,h3,h4,h5,h6{
   position:relative;
   font-family: 'Titillium Web', sans-serif;
   font-weight: 400;
-  color: #2e3192;
+  color: #254883;
   margin: 0px;
   transition: all 500ms ease;
 }
@@ -250,11 +250,11 @@ img {
 }
 
 .theme-btn.style-one:after{
-  background: #2e3192;
+  background: #254883;
 }
 
 .theme-btn.style-two{
-  background: #2e3192;
+  background: #254883;
 }
 
 .theme-btn:before{
@@ -341,7 +341,7 @@ img {
   line-height: 30px;
   border-radius: 50%;
   text-align: center;
-  color: #2e3192;
+  color: #254883;
   background: transparent;
   transition: all 500ms ease;
 }
@@ -371,7 +371,7 @@ img {
 .pagination li a:hover,
 .pagination li a.active{
   color: #fff;
-  background: #2e3192;
+  background: #254883;
 }
 
 .scroll-top {
@@ -383,7 +383,7 @@ img {
   right: 50px;
   font-size: 24px;
   z-index: 99;
-  background: #2e3192;
+  background: #254883;
   color: #ffffff;
   text-align: center;
   cursor: pointer;
@@ -443,7 +443,7 @@ img {
   font-size: 36px;
   line-height: 48px;
   font-weight: 700;
-  color: #2e3192;
+  color: #254883;
   padding-bottom: 30px;
   margin: 0px;
 }
@@ -561,7 +561,7 @@ img {
 }
 
 .preloader .boxes .box > div{
-  --background: #01aef0;
+  --background: #0F73B6;
   --top: auto;
   --right: auto;
   --bottom: auto;
@@ -587,18 +587,18 @@ img {
 }
 
 .preloader .boxes .box > div:nth-child(2){
-  --background: #2e3192;
+  --background: #254883;
   --right: 0;
   --rotateY: 90deg;
 }
 
 .preloader .boxes .box > div:nth-child(3){
-  --background: #2e3192;
+  --background: #254883;
   --rotateX: -90deg;
 }
 
 .preloader .boxes .box > div:nth-child(4){
-  --background: #2e3192;
+  --background: #254883;
   --top: 0;
   --left: 0;
   --translateZ: calc(var(--size) * 3 * -1);
@@ -789,7 +789,7 @@ img {
   position: relative;
   display: block;
   width: 100%;
-  background: #2e3192;
+  background: #254883;
   padding: 17px 0px 16px 0px;
 }
 
@@ -1177,7 +1177,7 @@ img {
   font-size: 40px;
   line-height: 50px;
   cursor: pointer;
-  color: #3786ff;
+  color: #0F73B6;
   display: none;
 }
 
@@ -1258,7 +1258,7 @@ img {
   font-size: 40px;
   line-height: 50px;
   cursor: pointer;
-  color:#3786ff;
+  color:#0F73B6;
   display: none;
 }
 
@@ -1780,7 +1780,7 @@ div#mCSB_1_container{
 
 .intro-section .inner-box .btn-box .theme-btn{
   background: #fff;
-  color: #2e3192 !important;
+  color: #254883 !important;
 }
 
 .intro-section .inner-box .btn-box .theme-btn:hover{
@@ -1805,7 +1805,7 @@ h3{
 
 h3 a{
   display: inline-block;
-  color: #2e3192;
+  color: #254883;
 }
 
 #image_block_01 .image-box{
@@ -2028,7 +2028,7 @@ h3 a{
   position: relative;
   display: block;
   overflow: hidden;
-  background: #2e3192;
+  background: #254883;
 }
 
 .service-block-one .image-box img{
@@ -2069,7 +2069,7 @@ h3 a{
 }
 
 .service-block-one .lower-content .link a:hover{
-  color: #2e3192 !important;
+  color: #254883 !important;
 }
 
 .service-section .more-btn{
@@ -2242,7 +2242,7 @@ h3 a{
 .experience-section:before{
   position: absolute;
   content: '';
-  background: #2e3192;
+  background: #254883;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -2496,7 +2496,7 @@ h3 a{
   display: inline-block;
   width: 10px;
   height: 10px;
-  background: #2e3192;
+  background: #254883;
   border-radius: 50px;
   margin: 0px 5px;
   cursor: pointer;
@@ -2699,7 +2699,7 @@ h3 a{
 }
 
 .news-block-one .inner-box .lower-content .lower-box .link a:hover{
-  color: #2e3192;
+  color: #254883;
 }
 
 .news-block-one .inner-box .lower-content .lower-box .admin{
@@ -2730,7 +2730,7 @@ h3 a{
 }
 
 .news-section .more-text a{
-  color: #2e3192;
+  color: #254883;
 }
 
 .news-section .sec-title{
@@ -2907,7 +2907,7 @@ h3 a{
   top: -1px;
   width: 92px;
   height: 90px;
-  background: #2e3192;
+  background: #254883;
   overflow: hidden;
 }
 
@@ -2940,7 +2940,7 @@ h3 a{
 
 .main-footer .footer-top .widget-section .post-widget .post-inner .post h5 a{
   display: inline-block;
-  color: #2e3192;
+  color: #254883;
 }
 
 .main-footer .footer-top .widget-section .post-widget .widget-title{
@@ -2950,7 +2950,7 @@ h3 a{
 .main-footer .footer-bottom{
   position: relative;
   display: block;
-  background: #2e3192;
+  background: #254883;
   padding: 30px 0px;
 }
 
@@ -3055,7 +3055,7 @@ h3 a{
 }
 
 .main-header.style-two .header-top .top-right li a:hover{
-  color: #2e3192;
+  color: #254883;
 }
 
 .main-header.style-two .header-top .top-right{
@@ -3087,7 +3087,7 @@ h3 a{
   margin-left: 0px;
   width: 100vw;
   padding: 0;
-  background: linear-gradient(90deg, rgba(0, 213, 255, 0.484) 0%, rgba(0, 0, 219, 0.534) 100%);
+  background: linear-gradient(90deg, #0f73b6c2 0%, #254783d6 100%);
 }
 
 .main-header.style-two .header-upper .header-upper-box{
@@ -3127,7 +3127,7 @@ h3 a{
   vertical-align: middle;
   width: 70px;
   font-size: 50px;
-  color: #2e3192;
+  color: #254883;
 }
 
 .main-header.style-two .header-upper .header-upper-box .upper-right ul li .title{
@@ -3161,7 +3161,7 @@ h3 a{
 .main-header.style-two .header-lower{
   position: relative;
   display: block;
-  background: linear-gradient(90deg, rgba(0, 213, 255, 0.484) 0%, rgba(0, 0, 219, 0.534) 100%);
+  background: linear-gradient(90deg, #0f73b6c2 0%, #254783d6 100%);
 }
 
 .main-header.style-two .header-lower .outer-box{
@@ -3180,7 +3180,7 @@ h3 a{
 
 .main-header.style-two .main-menu .navigation > li.current,
 .main-header.style-two .main-menu .navigation > li:hover{
-  background: #2e3192;
+  background: #254883;
 }
 
 .main-header.style-two .main-menu .navigation > li > a{
@@ -3213,7 +3213,7 @@ h3 a{
 }
 
 .main-header .search-box-outer .search-toggler:hover{
-  color: #2e3192;
+  color: #254883;
 }
 
 .search-popup{
@@ -3441,7 +3441,7 @@ h3 a{
 
 .banner-style-two .banner-carousel .content-box .theme-btn.style-two{
   background: #fff;
-  color: #2e3192 !important;
+  color: #254883 !important;
   font-size: 18px;
   text-transform: uppercase;
   padding: 15px 47px;
@@ -3536,7 +3536,7 @@ h3 a{
 .intro-style-two .inner-container .single-item .inner-box:before{
   position: absolute;
   content: '';
-  background: #2e3192;
+  background: #254883;
   width: 100%;
   height: 0%;
   left: 0px;
@@ -3678,7 +3678,7 @@ h3 a{
   position: relative;
   display: inline-block;
   background: #fff;
-  color: #2e3192;
+  color: #254883;
   border-radius: 50%;
   width: 128px;
   height: 128px;
@@ -3691,7 +3691,7 @@ h3 a{
 
 #video_block_02 .video-inner .icon-holder .icon-box a:hover{
   color: #fff;
-  background: #2e3192;
+  background: #254883;
 }
 
 #video_block_02 .video-inner{
@@ -3825,13 +3825,13 @@ h4{
   font-size: 20px;
   line-height: 28px;
   font-weight: 700;
-  color: #2e3192;
+  color: #254883;
   margin: 0px;
 }
 
 h4 a{
   display: inline-block;
-  color: #2e3192;
+  color: #254883;
 }
 
 .service-block-two .inner-box h4{
@@ -3857,7 +3857,7 @@ h4 a{
 .funfact-section{
   position: relative;
   padding: 80px 0px 90px 0px;
-  background: #2e3192;
+  background: #254883;
 }
 
 .funfact-section .pattern-layer{
@@ -3950,7 +3950,7 @@ h4 a{
 }
 
 .team-block-one .inner-box .image-box .social-links li a:hover{
-  color: #2e3192;
+  color: #254883;
 }
 
 .team-block-one .inner-box .image-box .link{
@@ -3964,7 +3964,7 @@ h4 a{
   display: inline-block;
   font-size: 12px;
   color: #fff;
-  background: #2e3192;
+  background: #254883;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -4061,7 +4061,7 @@ h4 a{
   font-size: 16px;
   font-weight: 700;
   line-height: 26px;
-  color: #2e3192;
+  color: #254883;
   padding: 14px 60px 17px 30px;
   cursor: pointer;
   border-bottom: 1px solid transparent;
@@ -4078,7 +4078,7 @@ h4 a{
 }
 
 #content_block_06 .accordion-box .block .acc-btn.active .icon-outer{
-  color: #2e3192;
+  color: #254883;
 }
 
 #content_block_06 .content-box .sec-title{
@@ -4167,7 +4167,7 @@ h4 a{
   top: 15px;
   font-size: 36px;
   line-height: 40px;
-  color: #2e3192;
+  color: #254883;
 }
 
 .testimonial-style-two .testimonial-content .inner-box .upper-box .text p{
@@ -4216,7 +4216,7 @@ h4 a{
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #2e3192;
+  background: #254883;
   overflow: hidden;
   z-index: 1;
 }
@@ -4283,7 +4283,7 @@ h4 a{
 }
 
 .news-style-two .more-text p a{
-  color: #2e3192;
+  color: #254883;
 }
 
 .news-style-two .more-text p a:hover{
@@ -4330,11 +4330,11 @@ h4 a{
 }
 
 .main-header.style-three .main-menu .navigation > li > a{
-  color: #2e3192;
+  color: #254883;
 }
 
 .main-header.style-three .main-menu .navigation > li > a:after{
-  color: #2e3192;
+  color: #254883;
 }
 
 .main-header.style-three .main-menu .navigation > li.current > a, 
@@ -4355,7 +4355,7 @@ h4 a{
 }
 
 .main-header.style-three .search-box-outer .search-toggler{
-  color: #2e3192;
+  color: #254883;
 }
 
 .main-header.style-three .menu-right-content .btn-box{
@@ -4396,7 +4396,7 @@ h4 a{
 
 .banner-style-three .content-box .btn-box .theme-btn{
   background: #fff;
-  color: #2e3192 !important;
+  color: #254883 !important;
 }
 
 .banner-style-three .content-box .btn-box .theme-btn:before{
@@ -4482,14 +4482,14 @@ h4 a{
 }
 
 #content_block_07 .content-box .lower-box .btn-box .video-btn:hover{
-  background: #2e3192 !important;
+  background: #254883 !important;
 }
 
 #content_block_07 .content-box .lower-box .btn-box .more-btn{
   font-size: 15px;
   line-height: 26px;
   font-family: 'Titillium Web', sans-serif;
-  color: #2e3192;
+  color: #254883;
   font-weight: 400;
   text-align: center;
   padding: 16px 35px;
@@ -4557,7 +4557,7 @@ h4 a{
 }
 
 .intro-style-three .inner-container .single-column:last-child .single-item .inner-box{
-  background: #2e3192;
+  background: #254883;
 }
 
 .intro-style-three .inner-container{
@@ -4607,7 +4607,7 @@ h4 a{
   position: relative;
   display: block;
   font-size: 18px;
-  color: #2e3192;
+  color: #254883;
   line-height: 28px;
   font-weight: 600;
   font-family: 'Titillium Web', sans-serif;
@@ -4630,7 +4630,7 @@ h4 a{
 .service-style-three .tab-btn-box .tab-btn:before{
   position: absolute;
   content: '';
-  background: #2e3192;
+  background: #254883;
   width: 4px;
   height: 0%;
   left: 0px;
@@ -4770,7 +4770,7 @@ h4 a{
 .project-block-one .inner-box{
   position: relative;
   display: block;
-  background: #2e3192;
+  background: #254883;
   overflow: hidden;
   text-align: center;
 }
@@ -4971,8 +4971,8 @@ h4 a{
 
 .pricing-block-one .pricing-table:hover,
 .pricing-block-one.active-block .pricing-table{
-  border: 1px solid #2e3192;
-  background: #2e3192;
+  border: 1px solid #254883;
+  background: #254883;
 }
 
 .pricing-block-one .pricing-table .table-header{
@@ -5091,10 +5091,10 @@ h4 a{
   font-size: 16px;
   line-height: 26px;
   font-family: 'Titillium Web', sans-serif;
-  color: #2e3192;
+  color: #254883;
   background: #fff;
   font-weight: 400;
-  border: 2px solid #2e3192;
+  border: 2px solid #254883;
   text-align: center;
   text-transform: uppercase;
   padding: 10px 40px;
@@ -5143,7 +5143,7 @@ h4 a{
 }
 
 .news-style-three .more-text p a{
-  color: #2e3192;
+  color: #254883;
 }
 
 .news-style-three .more-text p a:hover{
@@ -5253,7 +5253,7 @@ h4 a{
 }
 
 .main-header.style-four .sticky-header{
-  background: #2e3192;
+  background: #254883;
 }
 
 .main-header.style-four .sticky-header .menu-area{
@@ -5274,7 +5274,7 @@ h4 a{
 .banner-style-four:before{
   position: absolute;
   content: '';
-  background: #2e3192;
+  background: #254883;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -5316,14 +5316,14 @@ h4 a{
   font-family: 'Titillium Web', sans-serif;
   text-transform: uppercase;
   background: #fff;
-  color: #2e3192;
+  color: #254883;
   text-align: center;
   padding: 16px 47px;
 }
 
 .banner-style-four .content-box a:hover{
   color: #fff;
-  background: #2e3192;
+  background: #254883;
 }
 
 .banner-style-four .form-inner{
@@ -5379,7 +5379,7 @@ h4 a{
 .service-block-four .inner-box .image-box{
   position: relative;
   display: block;
-  background: #2e3192;
+  background: #254883;
   overflow: hidden;
 }
 
@@ -5446,7 +5446,7 @@ h4 a{
 }
 
 .service-block-four .inner-box .lower-content .link a:hover{
-  color: #2e3192 !important;
+  color: #254883 !important;
 }
 
 
@@ -5476,7 +5476,7 @@ h4 a{
 }
 
 .working-block-one .inner-box:hover .icon-holder{
-  border-color: #2e3192;
+  border-color: #254883;
 }
 
 .working-block-one .inner-box .icon-holder .icon-box{
@@ -5528,7 +5528,7 @@ h4 a{
 
 .funfact-style-two .inner-container{
   position: relative;
-  background: #2e3192;
+  background: #254883;
   padding: 80px 0px 90px 0px;
   margin-top: -140px;
 }
@@ -5585,7 +5585,7 @@ h4 a{
   position: relative;
   display: inline-block;
   background: #fff;
-  color: #2e3192;
+  color: #254883;
   border-radius: 50%;
   width: 128px;
   height: 128px;
@@ -5693,7 +5693,7 @@ h4 a{
   position: relative;
   display: inline-block;
   font-size: 16px;
-  color: #2e3192;
+  color: #254883;
   margin-right: 10px;
 }
 
@@ -5719,7 +5719,7 @@ h4 a{
 }
 
 .main-header.style-five .header-top .top-right li a:hover{
-  color: #2e3192;
+  color: #254883;
 }
 
 .main-header.style-five .header-top{
@@ -5752,7 +5752,7 @@ h4 a{
   height: 80px;
   line-height: 80px;
   text-align: center;
-  background: #2e3192;
+  background: #254883;
   padding: 0px;
   color: #fff !important;
 }
@@ -5817,7 +5817,7 @@ h4 a{
 .banner-style-five .banner-carousel .slide-item:before{
   position: absolute;
   content: '';
-  background: #2e3192;
+  background: #254883;
   width: 50%;
   height: 100%;
   left: 0px;
@@ -5863,7 +5863,7 @@ h4 a{
   font-family: 'Titillium Web', sans-serif;
   text-transform: uppercase;
   background: #fff;
-  color: #2e3192;
+  color: #254883;
   text-align: center;
   padding: 16px 38px;
 }
@@ -5995,7 +5995,7 @@ h4 a{
   font-size: 15px;
   line-height: 26px;
   font-family: 'Titillium Web', sans-serif;
-  color: #2e3192;
+  color: #254883;
   font-weight: 400;
   text-align: center;
   padding: 16px 35px;
@@ -6008,7 +6008,7 @@ h4 a{
 }
 
 #content_block_08 .content-box .lower-box .btn-box .video-btn:hover{
-  background: #2e3192 !important;
+  background: #254883 !important;
 }
 
 #content_block_08 .content-box .lower-box .btn-box .more-btn:hover{
@@ -6069,7 +6069,7 @@ h4 a{
 }
 
 .slills-style-two #content_block_03 .content-box .progress-content .progress-box h5{
-  color: #2e3192;
+  color: #254883;
   font-size: 20px;
   font-weight: 700;
   text-transform: uppercase;
@@ -6126,12 +6126,12 @@ h4 a{
 }
 
 .service-style-two.alternet-2 .service-block-two .inner-box:hover{
-  border-color: #2e3192;
+  border-color: #254883;
 }
 
 .service-style-two.alternet-2 .service-block-two .inner-box:before,
 .service-style-two.alternet-2 .service-block-two .inner-box:after{
-  background: #2e3192 !important;
+  background: #254883 !important;
 }
 
 
@@ -6151,7 +6151,7 @@ h4 a{
   display: inline-block;
   width: 10px;
   height: 10px;
-  background: #2e3192;
+  background: #254883;
   border-radius: 50%;
   cursor: pointer;
   transition: all 500ms ease;
@@ -6279,7 +6279,7 @@ h4 a{
 }
 
 .project-style-two .more-text p a:hover{
-  color: #2e3192 !important;
+  color: #254883 !important;
 }
 
 
@@ -6298,7 +6298,7 @@ h4 a{
 .shediul-section:before{
   position: absolute;
   content: '';
-  background: #2e3192;
+  background: #254883;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -6737,7 +6737,7 @@ h4 a{
   position: relative;
   display: block;
   font-size: 18px;
-  color: #2e3192;
+  color: #254883;
   line-height: 28px;
   font-weight: 600;
   font-family: 'Titillium Web', sans-serif;
@@ -6755,7 +6755,7 @@ h4 a{
 .service-details .service-sidebar .categories-list li a:before{
   position: absolute;
   content: '';
-  background: #2e3192;
+  background: #254883;
   width: 4px;
   height: 0%;
   left: 0px;
@@ -6855,7 +6855,7 @@ h4 a{
   color: #fff;
   font-weight: 700;
   padding: 22px 35px 20px 35px;
-  background: #2e3192;
+  background: #254883;
 }
 
 .service-details .service-sidebar .download-file .file-list li a i{
@@ -6968,7 +6968,7 @@ h4 a{
   right: 30px;
   font-size: 15px;
   font-weight: 700;
-  color: #2e3192;
+  color: #254883;
   text-align: center;
   cursor: pointer;
   transition: all 500ms ease;
@@ -6981,7 +6981,7 @@ h4 a{
   font-size: 18px;
   font-weight: 700;
   line-height: 26px;
-  color: #2e3192;
+  color: #254883;
   padding: 18px 60px 16px 30px;
   cursor: pointer;
   background: #f2f8ff;
@@ -6990,7 +6990,7 @@ h4 a{
 }
 
 .service-details-content .accordion-box .block.active-block .acc-btn h5{
-  background: #2e3192;
+  background: #254883;
   color: #fff;
 }
 
@@ -7010,7 +7010,7 @@ h4 a{
 }
 
 .bg-color-3{
-  background: #2e3192 !important;
+  background: #254883 !important;
 }
 
 
@@ -7205,7 +7205,7 @@ h4 a{
 }
 
 .single-book-content .lower-content h3 a:hover{
-  color: #2e3192 !important;
+  color: #254883 !important;
 }
 
 .single-book-content .lower-content p{
@@ -7227,7 +7227,7 @@ h4 a{
   display: inline-block;
   font-size: 36px;
   line-height: 45px;
-  color: #2e3192;
+  color: #254883;
   font-weight: 700;
   min-width: 175px;
   text-transform: uppercase;
@@ -7288,7 +7288,7 @@ h4 a{
 }
 
 .error-section .text a{
-  color: #2e3192;
+  color: #254883;
 }
 
 .error-section .text a:hover{
@@ -7451,7 +7451,7 @@ h4 a{
 .news-block-three .inner-box .image-box{
   position: relative;
   display: block;
-  background: #2e3192;
+  background: #254883;
   overflow: hidden;
 }
 
@@ -7548,7 +7548,7 @@ h4 a{
 
 .sidebar-page-container .sidebar .sidebar-search .form-group input:focus + button,
 .sidebar-page-container .sidebar .sidebar-search .form-group input:focus{
-  border-color: #2e3192;
+  border-color: #254883;
 }
 
 .sidebar-page-container .sidebar .sidebar-search .form-group button{
@@ -7559,7 +7559,7 @@ h4 a{
   height: 50px;
   line-height: 50px;
   text-align: center;
-  background: #2e3192;
+  background: #254883;
   font-size: 14px;
   color: #fff;
   transition: all 500ms ease;
@@ -7624,7 +7624,7 @@ h4 a{
 
 .sidebar-page-container .sidebar .sidebar-categories .categories-list li a.active,
 .sidebar-page-container .sidebar .sidebar-categories .categories-list li a:hover{
-  color: #2e3192;
+  color: #254883;
 }
 
 .sidebar-page-container .sidebar .sidebar-categories .categories-list li a span{
@@ -7665,7 +7665,7 @@ h4 a{
   top: 0px;
   width: 85px;
   height: 85px;
-  background: #2e3192;
+  background: #254883;
   overflow: hidden;
 }
 
@@ -7689,7 +7689,7 @@ h4 a{
 }
 
 .sidebar-page-container .sidebar .sidebar-post .post-inner .post h4 a:hover{
-  color: #2e3192;
+  color: #254883;
 }
 
 .sidebar-page-container .sidebar .sidebar-widget.sidebar-post .widget-title{
@@ -7766,8 +7766,8 @@ h4 a{
 
 .sidebar-page-container .sidebar .sidebar-tags .tags-list li a:hover{
   color: #fff;
-  background: #2e3192;
-  border-color: #2e3192;
+  background: #254883;
+  border-color: #254883;
 }
 
 .sidebar-page-container .sidebar .sidebar-widget.sidebar-tags .widget-title{
@@ -7889,7 +7889,7 @@ h4 a{
 }
 
 .blog-details .blog-details-content .post-share-option .post-tags li a:hover{
-  color: #2e3192;
+  color: #254883;
 }
 
 .blog-details .blog-details-content .post-share-option .post-tags li i{
@@ -7989,7 +7989,7 @@ h4 a{
   font-size: 14px;
   font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
-  color: #2e3192;
+  color: #254883;
   text-transform: uppercase;
   z-index: 1;
 }
@@ -8131,7 +8131,7 @@ h4 a{
   top: 3px;
   font-size: 50px;
   line-height: 50px;
-  color: #2e3192;
+  color: #254883;
 }
 
 .contact-section .info-inner .info-box li h5{
