@@ -3745,6 +3745,15 @@ h3 a{
 .service-style-two .sec-title{
   margin-bottom: 55px;
 }
+.service-block-ten .inner-box{
+  position: relative;
+  display: block;
+  background: transparent;
+  padding: 62px 40px 54px 40px;
+  transition: all 500ms ease;
+  margin-bottom: 0px;
+  z-index: 1;
+}
 
 .service-block-two .inner-box{
   position: relative;
@@ -3875,6 +3884,16 @@ h4 a{
   position: relative;
   display: block;
   text-align: center;
+}
+
+.pollityo{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  width: 100%;
+  height: 100%;
 }
 
 .counter-block-two .count-outer {
