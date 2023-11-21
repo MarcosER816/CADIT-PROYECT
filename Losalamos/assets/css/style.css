@@ -1255,7 +1255,7 @@ img {
 .nav-outer .mobile-nav-toggler{
   position: relative;
   float: right;
-  font-size: 40px;
+  font-size: 50px;
   line-height: 50px;
   cursor: pointer;
   color:#0F73B6;
@@ -1549,6 +1549,18 @@ div#mCSB_1_container{
 
 /** stricky-header **/
 
+
+.lolo-box{
+  position: relative;
+  content: '';
+  background: transparent;
+  top:0px;
+  left: 10vw;
+  z-index: 1;
+  padding: auto;
+  margin: 0;
+  margin-left: 15%;
+}
 
 .main-header.style-one .sticky-header .logo-box{
   padding: 15px 50px 15px 0px;
@@ -2857,6 +2869,16 @@ h3 a{
 .main-footer .footer-top .widget-section .widget-title{
   position: relative;
   margin-bottom: 56px;
+}
+
+.widget-content{
+  max-width: 80vw;
+}
+.ubicacionb{
+  max-width: 85vw;
+}
+.iframe{
+  max-width: 80vw;
 }
 
 .main-footer .footer-top .widget-section .links-widget .widget-content ul li{
