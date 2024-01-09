@@ -216,7 +216,7 @@ img {
 .imagen {
   text-align: center;
   margin-left: -25%;
-  margin-top: -1%;
+  margin-top: 0.5%;
   float: left;
   max-width: 100%;
   height: auto;

@@ -65,11 +65,11 @@
           // Function to trigger the next slide
           function triggerNextSlide() {
             var owl = $('.owl-carousel').data('owl.carousel');
-            owl.next(0);
+            owl.next(2);
           }
 
           // Set interval to trigger the next slide every 2 seconds
-          setInterval(triggerNextSlide, 100000000);
+          setInterval(triggerNextSlide, 3000);
         }, this)
       ),
       this.setup(),
